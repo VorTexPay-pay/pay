@@ -1,4 +1,4 @@
-
+            
 // Firebase integration initialized
 import React, { useState, useEffect } from 'react';
 import * as ImagePicker from 'expo-image-picker';
